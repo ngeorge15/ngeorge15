@@ -1,0 +1,42 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hdr-title-dark hdr-desc-dark">
+  <title id="hdr-title-dark">Nikhil George — Software Engineer</title>
+  <desc id="hdr-desc-dark">Profile banner reading Nikhil George, Software Engineer, Full-stack, Cloud, Embedded Systems, on a dark navy-teal gradient with subtle circuit-style linework.</desc>
+  <defs>
+    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#081a20"/>
+      <stop offset="55%" stop-color="#0a2130"/>
+      <stop offset="100%" stop-color="#0c2638"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg-dark)"/>
+
+  <!-- restrained circuit / sensor linework, right two-thirds only -->
+  <g stroke="#3fb6c4" stroke-width="1.5" fill="none" opacity="0.35">
+    <path d="M 620 40 H 760 V 90 H 880"/>
+    <path d="M 700 220 H 820 V 160 H 940"/>
+    <path d="M 980 60 V 130 H 1080"/>
+    <path d="M 860 40 V 20 H 1020 V 60"/>
+    <path d="M 1040 150 H 1140 V 200"/>
+    <path d="M 640 130 H 700"/>
+    <path d="M 900 200 H 1000 V 230"/>
+  </g>
+  <g fill="#4fd0dd" opacity="0.5">
+    <circle cx="620" cy="40" r="4"/>
+    <circle cx="880" cy="90" r="4"/>
+    <circle cx="700" cy="220" r="4"/>
+    <circle cx="940" cy="160" r="4"/>
+    <circle cx="980" cy="60" r="4"/>
+    <circle cx="1080" cy="130" r="4"/>
+    <circle cx="1020" cy="20" r="4"/>
+    <circle cx="1140" cy="150" r="4"/>
+    <circle cx="1000" cy="230" r="4"/>
+    <circle cx="640" cy="130" r="3.5"/>
+  </g>
+
+  <g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="64" y="122" font-size="46" font-weight="700" fill="#f2f9fa">Nikhil George</text>
+    <text x="64" y="160" font-size="22" font-weight="600" fill="#8fe0e8">Software Engineer</text>
+    <text x="64" y="192" font-size="16" font-weight="500" fill="#a9c9d1" letter-spacing="0.3">Full-stack &#8226; Cloud &#8226; Embedded Systems</text>
+  </g>
+</svg>
