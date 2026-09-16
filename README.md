@@ -29,14 +29,14 @@ Gnome, an IoT platform for indoor and outdoor plant care.
 <tr>
 <td width="60%" valign="top">
 
-**Personal Smart Ring Platform**
+**[Personal Smart Ring Platform](https://github.com/ngeorge15/smart-ring)**
 
 Reverse-engineered an undocumented BLE protocol and decoded five health-data
 streams from a consumer smart ring. Built a local-first ingestion and
 analytics platform with Python, asyncio, SQLite, React, and TypeScript.
 
 101 cross-checked assertions across the decode engine · Hampel filtering and
-gap-aware interpolation for sensor noise. *(Private repo — not yet public.)*
+gap-aware interpolation for sensor noise.
 
 </td>
 <td width="40%" valign="top">
