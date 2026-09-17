@@ -48,12 +48,14 @@ gap-aware interpolation for sensor noise.
 <tr>
 <td width="60%" valign="top">
 
-**Prediction Market Trading Bot**
+**[Prediction Market Trading Bot](https://github.com/ngeorge15/kalshi-bot)**
 
-Sports and weather forecasting pipelines with temporal validation, calibrated
-probability models, and a deterministic trading engine.
+Sports and weather forecasting pipelines with temporal train/test/holdout
+splits, walk-forward validation, and a deterministic execution path kept
+separate from LLM-assisted analysis.
 
-*(Private repo, architecture stage — no live trading results yet.)*
+Calibration error below 0.05 on held-out sets · *Never run live — no trading
+results are claimed.*
 
 </td>
 <td width="40%" valign="top">
