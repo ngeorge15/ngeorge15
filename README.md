@@ -54,9 +54,7 @@ Sports and weather forecasting pipelines with temporal train/test/holdout
 splits, walk-forward validation, and a deterministic execution path kept
 separate from LLM-assisted analysis.
 
-Calibration error below 0.05 on held-out sets · *Never run live — no trading
-results are claimed.*
-
+Calibration error below 0.05 on held-out sets
 </td>
 <td width="40%" valign="top">
 
